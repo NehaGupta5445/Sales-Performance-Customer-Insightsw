@@ -1,15 +1,16 @@
-#  RetailPulse – Sales Performance & Customer Insights Dashboard
+# 📊 RetailPulse – Sales Performance & Customer Insights Dashboard  
 
 **Project Lead:** Neha Gupta  
-**Team Member:** Devisha Kumari
+**Team Member:** Devisha Kumari  
 
 An end-to-end **Power BI analytics project** built using the [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), designed to uncover **sales trends, profit drivers, and customer behavior** across regions.  
 This project demonstrates **data preparation, star schema modeling, advanced DAX, and interactive dashboarding** for executive-level decision-making.
 
 ---
 
-##  Dataset Overview
+## 📂 Dataset Overview
 **Source:** Kaggle – Superstore Dataset (Retail)  
+
 **Key Fields:**
 - **Orders:** Order ID, Order Date, Ship Date  
 - **Customers:** Customer ID, Name, Segment  
@@ -22,7 +23,7 @@ A clean, relational dataset — ideal for **data modeling** and **business intel
 
 ---
 
-##  Objective
+## 🎯 Objective
 To provide **actionable business insights** by:
 - Identifying top-performing products, customers, and regions  
 - Analyzing time-based trends in sales & profitability  
@@ -31,7 +32,7 @@ To provide **actionable business insights** by:
 
 ---
 
-##  Project Workflow
+## 🛠 Project Workflow
 
 ### **1. Data Preparation (Power Query)**
 - Removed unnecessary rows and cleaned column values  
@@ -72,7 +73,7 @@ To provide **actionable business insights** by:
 
 ---
 
-##  Key Insights
+## 📊 Key Insights
 - **Region Performance:** Clear leaders and underperformers identified  
 - **Profitability Impact:** Discounts >20% significantly erode profit margins  
 - **Customer Analysis:** Repeat customers contribute a high share of total revenue  
@@ -80,16 +81,23 @@ To provide **actionable business insights** by:
 
 ---
 
-##  Tools & Technologies
+## 🚀 Tools & Technologies
 - **Power BI** – Data Modeling, Visualization, DAX  
 - **Power Query** – Data Cleaning & Transformation  
 - **Excel/CSV** – Data Source  
 
 ---
 
-##  Business Value
+## 📸 Dashboard Preview
+*(Insert dashboard screenshot here)*
+
+---
+
+## 📈 Business Value
 The **RetailPulse Dashboard** enables:
 - Quick identification of profitable segments  
 - Targeted sales strategies per region  
 - Monitoring of discount policies’ financial impact  
+- Better resource allocation based on customer and product trends  
+ial impact  
 - Better resource allocation based on customer and product trends

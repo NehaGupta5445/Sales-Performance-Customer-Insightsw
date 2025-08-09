@@ -1,5 +1,6 @@
 #  RetailPulse – Sales Performance & Customer Insights Dashboard
-
+**Project Lead:** Neha Gupta  
+**Team Member:** Devisha Kumari
 An end-to-end **Power BI analytics project** built using the [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), designed to uncover **sales trends, profit drivers, and customer behavior** across regions.  
 This project demonstrates **data preparation, star schema modeling, advanced DAX, and interactive dashboarding** for executive-level decision-making.
 

@@ -88,7 +88,7 @@ To provide **actionable business insights** by:
 
 ---
 
-## 📈 Business Value
+##  Business Value
 The **RetailPulse Dashboard** enables:
 - Quick identification of profitable segments  
 - Targeted sales strategies per region  
